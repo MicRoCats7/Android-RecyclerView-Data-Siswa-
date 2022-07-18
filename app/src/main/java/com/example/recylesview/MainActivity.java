@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
                 new MyListData("Bayu", R.drawable.ic_baseline_person_24),
                 new MyListData("Bhre Nabil", R.drawable.ic_baseline_person_24),
                 new MyListData("Bimo", R.drawable.ic_baseline_person_24),
-                new MyListData("Daffa", R.drawable.ic_baseline_person_24),
+                new MyListData("Firdan", R.drawable.ic_baseline_person_24),
                 new MyListData("Danar", R.drawable.ic_baseline_person_24),
                 new MyListData("Dimas", R.drawable.ic_baseline_person_24),
                 new MyListData("Firdaus", R.drawable.ic_baseline_person_24),
